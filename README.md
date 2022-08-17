@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello hello
+You can find all my work at [48n.es](https://48n.es).
+---
+- ⚙️ Favorites:  `.py`, `.java`, `.sql`
+- 🧰 Others: `.go`, `.c`, `.html`, `.scss`, `.js`
+- 🧠 Currently Learning: `.tsx`, `.dart`
+- 💬 You can reach me at:
+  - <agnesshan@live.com>
+  - [@_48nes](https://twitter.com/_48nes)
 
 <!--
 **48nes/48nes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
