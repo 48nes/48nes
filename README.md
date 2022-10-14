@@ -2,9 +2,9 @@
 
 You can find all my work at [48n.es](https://48n.es).
 ---
-- ⚙️ Favorites:  `.py`, `.java`, `.sql`
-- 🧰 Others: `.go`, `.c`, `.html`, `.scss`, `.js`
-- 🧠 Currently Learning: `.tsx`, `.dart`
+- ⚙️ Favorites:  `.py`, `.java`, `.tsx`
+- 🧰 Others: `.go`, `.c`, `.html`, `.scss`, `.js`, `.sql`
+- 🧠 Currently Learning: `.dart`
 - 💬 You can reach me at:
   - <agnesshan@live.com>
   - [@_48nes](https://twitter.com/_48nes)
