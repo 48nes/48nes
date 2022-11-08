@@ -2,7 +2,7 @@
 
 You can find all my work at [48n.es](https://48n.es).
 ---
-- ⚙️ Favorites:  `.py`, `.java`, `.tsx`
+- ⚙️ Favorites:  `.py`, `.java`, `.ts`
 - 🧰 Others: `.go`, `.c`, `.html`, `.scss`, `.js`, `.sql`
 - 🧠 Currently Learning: `.dart`
 - 💬 You can reach me at:
