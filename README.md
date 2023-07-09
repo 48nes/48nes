@@ -4,7 +4,7 @@ You can find all my work at [48n.es](https://48n.es).
 ---
 - ⚙️ Favorites:  `.py`, `.java`, `.ts`
 - 🧰 Others: `.go`, `.c`, `.html`, `.scss`, `.js`, `.sql`
-- 🧠 Currently Learning: `.dart`
+- 🧠 Currently Learning: `.dart`, `.NET`
 - 💬 You can reach me at:
   - <agnesshan@live.com>
   - [@_48nes](https://twitter.com/_48nes)
