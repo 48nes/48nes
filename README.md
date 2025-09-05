@@ -1,6 +1,6 @@
 ### 👋 Hello hello
 
-I'm also [@agnes-delve]
+I'm also [@agnes-delve](https://github.com/agnes-delve)
 
 You can find all my work at [48n.es](https://48n.es).
 ---
