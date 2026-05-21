@@ -4,8 +4,8 @@ prev [@agnes-delve](https://github.com/agnes-delve)
 
 You can find all my work at [48n.es](https://48n.es).
 ---
-- ⚙️ Favorites:  `.ts`, `.py`
-- 🧰 Others: `.java`, `.go`, `.c`, `.NET`, `.html`, `.scss`, `.js`, `.sql`
+- ⚙️ Favorites: `.sql`, `.ts`, `.py`
+- 🧰 Others: `.java`, `.go`, `.c`, `.NET`, `.scss`, `.js`
 - 🧠 Currently Learning: `.dart`, `.rs`
 - 💬 You can reach me at:
   - <agnesshan@live.com>
